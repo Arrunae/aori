@@ -2,7 +2,7 @@
 
 Ce projet constituera à présenter un dossier documentaire sur l'évolution des technologies liées aux manettes de consoles de jeux.
 
-Pour cela, il y aura une partie [historique](https://) générale ainsi qu'une page par technologie.
+Pour cela, il y aura une partie [historique](historique) générale ainsi qu'une page par technologie.
 
 ### Pour commencer
 
@@ -26,7 +26,7 @@ Aujourd'hui, concerne surtout les consoles dites **"de salon"**, mais les manett
 - XBox 360
 - etc.
 
-![différente génération de consoles]()
+![différente génération de consoles](unnamed.jpg)
 A noter qu'il y a eu plusieurs générations de console, avec chacune leur particularité et saut technologique.
 1. Génération 1 : (caract)
 2. Génération 2 : (caract)
