@@ -26,7 +26,7 @@ Aujourd'hui, concerne surtout les consoles dites **"de salon"**, mais les manett
 - XBox 360
 - etc.
 
-![différente génération de consoles](unnamed.jpg)
+![différente génération de consoles](generationconsole.jpg)
 A noter qu'il y a eu plusieurs générations de console, avec chacune leur particularité et saut technologique.
 1. Génération 1 : (caract)
 2. Génération 2 : (caract)
