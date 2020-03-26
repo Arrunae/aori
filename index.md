@@ -1,12 +1,12 @@
-## Welcome to GitHub Pages
+## Bienvenu sur ma présentation de projet de fin d'année
 
-You can use the [editor on GitHub](https://github.com/Arrunae/aori/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Ce projet constituera à présenter un dossier documentaire sur l'évolution des technologies liées aux manettes de consoles de jeux.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Pour cela, il y aura une partie [historique](https://) générale ainsi qu'une page par technologie.
 
-### Markdown
+### Pour commencer
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Le projet est de créer une page internet accessible et compréhensible de tous.
 
 ```markdown
 Syntax highlighted code block
