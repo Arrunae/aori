@@ -14,7 +14,6 @@ Le projet est de créer une page internet accessible et compréhensible de tous.
 Aujourd'hui, concerne surtout les consoles dites **"de salon"**, mais les manettes peuvent être greffé sur d'autres supports comme les ordinateurs ou utilisées dans le _"serious gaming"_ avec les simulateurs de vol pour les pilotes d'avion. Touitefois, la grande nouveauté, c'est une manette pour les consoles **"portables"** : Il y avait déjà eut quelques prémisses avec la Nintendo DS et les accessoires notamment Pokemon qui permettait de compter les pas, d'attraper des pokemons à l'extérieur, etc. Cepandant, aujourd'hui la Switch, console Nintendo **hybride** (entre console de salon et console portable) à des manettes utilisables même lors d'une utilisation portative.
 
 ## Avec fils
-1. Console de "génération 1"
 - Playstation One
 - XBox (?)
 - Nintendo Game-Cube
@@ -26,6 +25,13 @@ Aujourd'hui, concerne surtout les consoles dites **"de salon"**, mais les manett
 - Nintendo Wii, Wii-U, Switch
 - XBox 360
 - etc.
+
+![différente génération de consoles](https://lh3.googleusercontent.com/proxy/P0Cp4wNQur8XZKdE7ABBWunGDacD-rYRygxYVvxigOUGXcKffcmrEza32AAIGKEEeYXSzdCIUMz5GtWzK49Z7wb3dZ3j25bYTfyDRs20a9TRPEK63sorjX2GdXvz7kJz0PdXgnUsFihE2Nw6kTo6ZIg0qQ)
+A noter qu'il y a eu plusieurs générations de console, avec chacune leur particularité et saut technologique.
+1. Génération 1 : (caract)
+2. Génération 2 : (caract)
+3. Génération 3 : (caract)
+4. Génération 4 : (caract)
 
 ```
 
